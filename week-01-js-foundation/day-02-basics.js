@@ -21,3 +21,6 @@ price = 0;
 quantity = 0;
 stock_value = price * quantity;
 console.log(`giá trị tồn kho hiện tại của sản phẩm ${product_name} là ${stock_value}$`);
+
+
+
